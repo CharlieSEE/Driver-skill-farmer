@@ -1,6 +1,6 @@
 # Driver-skill-farmer
 
-This is simple programm to farm driver skill in Dying Light The Following
+This is a simple program to farm driver skill in Dying Light The Following
 
 ## Installation
 ### Prerequisites
